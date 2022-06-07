@@ -8,6 +8,8 @@ The Project CSS Demo Site is an example of my budding skills of CSS in regards t
 
 Below are a couple of screenshots and a link to the deployed site.
 
-https://markbrooks1985.github.io/css-demo-site/
+[Demo Site](https://markbrooks1985.github.io/css-demo-site/)
 
+![This is an image](https://github.com/MarkBrooks1985/css-demo-site/blob/main/images/screen1.png)
 
+![This is an image](https://github.com/MarkBrooks1985/css-demo-site/blob/main/images/screen2.png)
