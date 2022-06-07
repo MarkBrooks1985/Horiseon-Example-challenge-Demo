@@ -10,6 +10,6 @@ Below are a couple of screenshots and a link to the deployed site.
 
 [Demo Site](https://markbrooks1985.github.io/css-demo-site/)
 
-![This is an image](https://github.com/MarkBrooks1985/css-demo-site/blob/main/images/screen1.png)
+![This is an image](./images/screen1.png)
 
-![This is an image](https://github.com/MarkBrooks1985/css-demo-site/blob/main/images/screen2.png)
+![This is an image](./images/screen2.png)
